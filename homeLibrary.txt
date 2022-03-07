@@ -1,0 +1,33 @@
+Owner
+* FirstName
+* LastName
+* Age
+* Address
+* Favorite Genres
+* Books Owned
+
+Books
+* Author
+* Title
+* Subtitle (?)
+* Description (Plot/Blurb/Klappentext)
+* Chapters
+* etc.
+* Cover
+* Type (Hardcover/Paperback/eBook)
+* Genre
+* Part of a series
+* Language
+* Translator
+* Publisher
+* Edition/Imprint
+* Release date
+
+Buying
+* Buy date
+* Bought from
+
+Reading
+* Started reading
+* Ended reading
+* Hours read
